@@ -26,6 +26,4 @@
   ![GitLab](https://img.shields.io/badge/-gitlab-1A1E23?style=for-the-badge&logo=gitlab&labelColor=1A1E23)&nbsp;
   ![Boostrap](https://img.shields.io/badge/-boostrap-1A1E23?style=for-the-badge&logo=bootstrap&labelColor=1A1E23)&nbsp;
 
-[![Commits](https://github-readme-activity-graph.vercel.app/graph?username=iisabelagarcia&bg_color=1a1e23&color=254b48&line=264b48&point=326461&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=254b48&height=120&section=footer"/>
