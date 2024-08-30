@@ -2,18 +2,20 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=254b48&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Isabela+Garcia;I'm+20+years+old;I+am+from+Brazil,+DF;I+study+computer+science+at+UniCEUB;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=iisabelagarcia&show_icons=true&count_private=true&hide_border=true&title_color=254b48&icon_color=254b48&text_color=c9d1d9&bg_color=1A1E23" alt="Isabela Garcia GitHub Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iisabelagarcia&layout=compact&hide_border=true&title_color=254b48&text_color=c9d1d9&bg_color=1A1E23" />
 </div>
 
-<div align="right">
+<br>
 
+<div align="right">
   <a href="mailto:garcia.isabela2003@gmail.com"> <img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
 </div>
 
   ### Main skills:
-  ![Power BI](https://img.shields.io/badge/-Power%20BI-1A1E23?style=for-the-badge&logo=power-bi&labelColor=1A1E23)&nbsp;
+  ![Power BI](https://img.shields.io/badge/-power%20BI-1A1E23?style=for-the-badge&logo=power-bi&labelColor=1A1E23)&nbsp;
   ![Python](https://img.shields.io/badge/-python-1A1E23?style=for-the-badge&logo=python&labelColor=1A1E23)&nbsp;
   ![MySQL](https://img.shields.io/badge/-mysql-1A1E23?style=for-the-badge&logo=mysql&labelColor=1A1E23)&nbsp;
   ![Figma](https://img.shields.io/badge/-figma-1A1E23?style=for-the-badge&logo=figma&labelColor=1A1E23)&nbsp;
